@@ -1,0 +1,74 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_754740-MLA49727160997_042022-O.webp",
+      "nome": "Gemini Saga",
+      "preco": 89.90,
+      "parcela": 8.99
+    },
+    {
+      "id": 2,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942439-MLB71075140051_082023-O.webp",
+      "nome": "Afrodite de Peixes",
+      "preco": 50.00,
+      "parcela": 5.00
+    },
+    {
+      "id": 3,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648107-MLB45754148255_042021-O.webp",
+      "nome": "Jabu de Unicórnio",
+      "preco": 75.00,
+      "parcela": 7.50
+    },
+    {
+      "id": 4,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953862-MLB49505946229_032022-O.webp",
+      "nome": "Mu de Áries",
+      "preco": 60.00,
+      "parcela": 6.00
+    },
+    {
+      "id": 5,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_873137-MLB44203547495_112020-O.webp",
+      "nome": "Shun de Andrômeda",
+      "preco": 95.00,
+      "parcela": 9.50
+    },
+    {
+      "id": 6,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803381-CBT50575007724_072022-O.webp",
+      "nome": "Ikki de Fenix",
+      "preco": 45.00,
+      "parcela": 4.50
+    },
+    {
+      "id": 7,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_986109-MLA50315910186_062022-O.webp",
+      "nome": "Mascara da Morte",
+      "preco": 70.00,
+      "parcela": 7.00
+    },
+    {
+      "id": 8,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_914207-MLU71081110995_082023-O.webp",
+      "nome": "Aiolos de Sargitário",
+      "preco": 55.00,
+      "parcela": 5.50
+    },
+    {
+      "id": 9,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_832845-MLB69971649631_062023-O.webp",
+      "nome": "Seiya de Pégasos",
+      "preco": 65.00,
+      "parcela": 6.50
+    },
+    {
+      "id": 10,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_973550-MLB47306991934_082021-O.webp",
+      "nome": "Shiryu de Dragão",
+      "preco": 80.00,
+      "parcela": 8.00
+    }
+  ]
+}
